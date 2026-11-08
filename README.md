@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mahnoor Faisal 👋
 
-<!--
-**Mahnoor-Faisal0303/Mahnoor-Faisal0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · React, Next.js, React Native & Django**
+Karachi, Pakistan · [Portfolio](https://mahnoor-portfolio-pi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mahnoor-faisal-2519a0245)
 
-Here are some ideas to get you started:
+I have 3+ years of experience building web and mobile apps across the stack. I've shipped 20+ products. I use AI tools (Claude Code, ChatGPT, Gemini) daily, and I turn Figma designs and business requirements into responsive interfaces backed by solid APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+Leading frontend development for BuoyHub.com at 1Percent Labs.
+
+## Featured projects
+- **BuoyHub** (Web): business services portal. React, Next.js, TypeScript, Django.
+- **SnuggleScript** (iOS): AI bedtime stories. React Native, animations.
+- **NLP TaskPro** (Web): voice-driven task manager. Next.js, Firebase, Gemini API.
+- Also built: Nature Cafe & Bar, USDFI (DeFi), Carcat Automotive, KeyView AI, PRISM, EDGE CRM, IEEPA portals, MyGIG.
+
+## Tech stack
+**Languages:** TypeScript, JavaScript, Python, HTML5, CSS
+**Front-end:** React, Next.js, Electron.js, Tailwind CSS, Material UI, Redux Toolkit, React Query, Zustand
+**Mobile:** React Native (iOS & Android)
+**Back-end:** Django, Django REST Framework, NestJS, Supabase
+**AI:** Claude Code, Claude API, OpenAI, Gemini, prompt engineering
+**Web3:** Ethers.js, smart contract integration
+**Tools:** Git, Figma, Vite, CI/CD
+
+## Writing
+- Understanding Of DOM Essentials
+- Writing Loops In CSS For Dynamic Classes
