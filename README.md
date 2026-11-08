@@ -6,7 +6,7 @@ Karachi, Pakistan · [Portfolio](https://mahnoor-portfolio-pi.vercel.app) · [Li
 I have 3+ years of experience building web and mobile apps across the stack. I've shipped 20+ products. I use AI tools (Claude Code, ChatGPT, Gemini) daily, and I turn Figma designs and business requirements into responsive interfaces backed by solid APIs.
 
 ## Currently
-Leading frontend development for BuoyHub.com at 1Percent Labs.
+Working at 1Percent Labs.
 
 ## Featured projects
 - **BuoyHub** (Web): business services portal. React, Next.js, TypeScript, Django.
